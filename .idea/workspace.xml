@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29360cfb-b172-4c05-861a-c607a6dac4a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ai/av3/stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ai/av3/stars.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ai" />
+  </component>
+  <component name="ProjectId" id="25bGt6NCja29fwjSugdQsZHx9BE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Repozitorium/ai/searching_framework" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Georgina\PycharmProjects\AuditoriskiVezbi\Exercises_Neinformirano" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Zadaca1_Kol2">
+    <configuration name="Zadaca1_Kol2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AuditoriskiVezbi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZADACI_VTOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZADACI_VTOR/Zadaca1_Kol2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadaca1_NaivenB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AuditoriskiVezbi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZADACI_VTOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZADACI_VTOR/Zadaca1_NaivenB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadaca3_Klasicna" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AuditoriskiVezbi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VtorKolokvium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VtorKolokvium/Zadaca3_Klasicna.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadaca4_Klasicna" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AuditoriskiVezbi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VtorKolokvium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VtorKolokvium/Zadaca4_Klasicna.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadaca5_Validacija" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AuditoriskiVezbi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VtorKolokvium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VtorKolokvium/Zadaca5_Validacija.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Zadaca1_Kol2" />
+        <item itemvalue="Python.Zadaca1_NaivenB" />
+        <item itemvalue="Python.Zadaca5_Validacija" />
+        <item itemvalue="Python.Zadaca4_Klasicna" />
+        <item itemvalue="Python.Zadaca3_Klasicna" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29360cfb-b172-4c05-861a-c607a6dac4a8" name="Default Changelist" comment="" />
+      <created>1645788583870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645788583870</updated>
+      <workItem from="1645788585456" duration="2496000" />
+      <workItem from="1646394013220" duration="1938000" />
+      <workItem from="1647002597062" duration="1504000" />
+      <workItem from="1647256384908" duration="1458000" />
+      <workItem from="1647342417857" duration="13992000" />
+      <workItem from="1647434207935" duration="10611000" />
+      <workItem from="1647456116063" duration="2571000" />
+      <workItem from="1647520770900" duration="3899000" />
+      <workItem from="1647604485223" duration="13911000" />
+      <workItem from="1647773069331" duration="18647000" />
+      <workItem from="1647889301964" duration="14653000" />
+      <workItem from="1647947010832" duration="32687000" />
+      <workItem from="1648038909330" duration="10381000" />
+      <workItem from="1648056675965" duration="1675000" />
+      <workItem from="1648115775076" duration="17541000" />
+      <workItem from="1648229211803" duration="348000" />
+      <workItem from="1648477947267" duration="251000" />
+      <workItem from="1648551151742" duration="21994000" />
+      <workItem from="1648645123366" duration="3331000" />
+      <workItem from="1648652055685" duration="21055000" />
+      <workItem from="1648679850404" duration="4533000" />
+      <workItem from="1648724532951" duration="22965000" />
+      <workItem from="1648818378202" duration="19174000" />
+      <workItem from="1649012421380" duration="13743000" />
+      <workItem from="1649332312546" duration="3000" />
+      <workItem from="1649335737762" duration="624000" />
+      <workItem from="1649362223251" duration="494000" />
+      <workItem from="1649426426664" duration="593000" />
+      <workItem from="1649675175556" duration="11938000" />
+      <workItem from="1649938419504" duration="1457000" />
+      <workItem from="1650104925023" duration="3297000" />
+      <workItem from="1650209364084" duration="14000" />
+      <workItem from="1650366413626" duration="4030000" />
+      <workItem from="1650626666391" duration="15219000" />
+      <workItem from="1650733911832" duration="4738000" />
+      <workItem from="1650825059755" duration="2482000" />
+      <workItem from="1650879408289" duration="7967000" />
+      <workItem from="1651056480517" duration="882000" />
+      <workItem from="1652206191750" duration="594000" />
+      <workItem from="1652210816075" duration="8831000" />
+      <workItem from="1652953045516" duration="19424000" />
+      <workItem from="1653139817241" duration="30210000" />
+      <workItem from="1653302025237" duration="15846000" />
+      <workItem from="1653345983890" duration="177000" />
+      <workItem from="1653516279763" duration="325000" />
+      <workItem from="1653598829383" duration="179000" />
+      <workItem from="1653762912739" duration="1507000" />
+      <workItem from="1653859949168" duration="6580000" />
+      <workItem from="1653907522395" duration="9074000" />
+      <workItem from="1654004237244" duration="1999000" />
+      <workItem from="1654083523502" duration="2468000" />
+      <workItem from="1654519044242" duration="142000" />
+      <workItem from="1654612170864" duration="4914000" />
+      <workItem from="1654901450200" duration="14000" />
+      <workItem from="1654992453826" duration="379000" />
+      <workItem from="1655206887226" duration="594000" />
+      <workItem from="1655301763824" duration="46000" />
+      <workItem from="1655306577072" duration="589000" />
+      <workItem from="1655556559165" duration="727000" />
+      <workItem from="1658872674320" duration="238000" />
+      <workItem from="1658872946338" duration="1775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652212385026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1652212385026" />
+    <state x="1006" y="439" width="490" height="461" key="#xdebugger.evaluate" timestamp="1653262565540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2372" y="351" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652991632566" />
+    <state x="1006" y="439" width="490" height="461" key="#xdebugger.evaluate/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1653262565540" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1650837011899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1650837011899" />
+    <state x="651" y="169" key="FileChooserDialogImpl" timestamp="1652969561551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="651" y="169" key="FileChooserDialogImpl/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1652969561550" />
+    <state width="1877" height="421" key="GridCell.Tab.0.bottom" timestamp="1654639601491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652993502726" />
+    <state width="1253" height="251" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1653343891944" />
+    <state width="1877" height="421" key="GridCell.Tab.0.bottom/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1654639601491" />
+    <state width="1877" height="421" key="GridCell.Tab.0.center" timestamp="1654639601491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652993502726" />
+    <state width="1253" height="251" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1653343891944" />
+    <state width="1877" height="421" key="GridCell.Tab.0.center/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1654639601491" />
+    <state width="1877" height="421" key="GridCell.Tab.0.left" timestamp="1654639601491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652993502726" />
+    <state width="1253" height="251" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1653343891944" />
+    <state width="1877" height="421" key="GridCell.Tab.0.left/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1654639601491" />
+    <state width="1877" height="421" key="GridCell.Tab.0.right" timestamp="1654639601491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652993502726" />
+    <state width="1253" height="251" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1653343891944" />
+    <state width="1877" height="421" key="GridCell.Tab.0.right/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1654639601491" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1653262579857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652991978389" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1653001666227" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1653262579857" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1653262579857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652991978388" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1653001666227" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1653262579857" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1653262579857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652991978388" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1653001666227" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1653262579857" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1653262579857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1652991978388" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1653001666227" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1653262579857" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1653233477540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1653233477540" />
+    <state x="380" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1658874567738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1658874567738" />
+    <state x="533" y="267" key="com.intellij.ide.util.TipDialog/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1655556864386" />
+    <state x="2299" y="491" key="com.intellij.ide.util.TipDialog/1920.304.1366.728/0.0.1920.1040@1920.304.1366.728" timestamp="1653139819022" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1653320823282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1653320823282" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Auditoriska2/Zadaca4.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Auditoriska3/Zadaca2.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VtorKolokvium/Zadaca2.py</url>
+          <line>496</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ZADACI_VTOR/Zadaca1_NaivenB.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$vezb.coverage" NAME="vezb Coverage Results" MODIFIED="1648576481458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriska4" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca5.coverage" NAME="Zadaca5 Coverage Results" MODIFIED="1648665562846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Neinformirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$4_1.coverage" NAME="4.1 Coverage Results" MODIFIED="1648730450761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Informirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$explorer.coverage" NAME="explorer Coverage Results" MODIFIED="1647696895609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ai/av3" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Pacman_1.coverage" NAME="Pacman_1 Coverage Results" MODIFIED="1649939241022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domashna" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca2_1.coverage" NAME="Zadaca2-1 Coverage Results" MODIFIED="1648841102905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriska5" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Vezba.coverage" NAME="Vezba Coverage Results" MODIFIED="1653233129405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7_Nevronski" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca2.coverage" NAME="Zadaca2 Coverage Results" MODIFIED="1653248726804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7_Nevronski" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca2_kod.coverage" NAME="Zadaca2_kod Coverage Results" MODIFIED="1647965212539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2_Neinformirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$molecule.coverage" NAME="molecule Coverage Results" MODIFIED="1647877405407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ai/av3" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$hh2.coverage" NAME="hh2 Coverage Results" MODIFIED="1648664601028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Informirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca3.coverage" NAME="Zadaca3 Coverage Results" MODIFIED="1653255976837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7_Nevronski" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$hh.coverage" NAME="hh Coverage Results" MODIFIED="1648675858306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Informirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca1_NaivenB.coverage" NAME="Zadaca1_NaivenB Coverage Results" MODIFIED="1653924743715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZADACI_VTOR" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$stars.coverage" NAME="stars Coverage Results" MODIFIED="1647875292672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ai/av3" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Vezbanka.coverage" NAME="Vezbanka Coverage Results" MODIFIED="1650886873439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$KolokviumskaCSP.coverage" NAME="KolokviumskaCSP Coverage Results" MODIFIED="1648859945037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriska5" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca8.coverage" NAME="Zadaca8 Coverage Results" MODIFIED="1648751916956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Neinformirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Kolokviumska.coverage" NAME="Kolokviumska Coverage Results" MODIFIED="1649025187148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Informirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca1_2.coverage" NAME="Zadaca1-2 Coverage Results" MODIFIED="1648565729839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriska4" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$hehe.coverage" NAME="hehe Coverage Results" MODIFIED="1652964751413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab5_Naiven" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca5_Validacija.coverage" NAME="Zadaca5_Validacija Coverage Results" MODIFIED="1653322752262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VtorKolokvium" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$hhh.coverage" NAME="hhh Coverage Results" MODIFIED="1648675794181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Informirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca7.coverage" NAME="Zadaca7 Coverage Results" MODIFIED="1648757404416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Neinformirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca3_Klasicna.coverage" NAME="Zadaca3_Klasicna Coverage Results" MODIFIED="1653317750318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VtorKolokvium" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca1_Kol2.coverage" NAME="Zadaca1_Kol2 Coverage Results" MODIFIED="1654639561388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZADACI_VTOR" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca1__2_.coverage" NAME="Zadaca1 (2) Coverage Results" MODIFIED="1647788254550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriska1" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Kolokviumska1.coverage" NAME="Kolokviumska1 Coverage Results" MODIFIED="1649025193069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Informirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$vezbanka3.coverage" NAME="vezbanka3 Coverage Results" MODIFIED="1650886608610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca6.coverage" NAME="Zadaca6 Coverage Results" MODIFIED="1647351964001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriska1" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca1_kod.coverage" NAME="Zadaca1_kod Coverage Results" MODIFIED="1648596634023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3_Informirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca3__1_.coverage" NAME="Zadaca3 (1) Coverage Results" MODIFIED="1648861791474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_CSP" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca2_2.coverage" NAME="Zadaca2-2 Coverage Results" MODIFIED="1648842921962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriska5" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca4_Klasicna.coverage" NAME="Zadaca4_Klasicna Coverage Results" MODIFIED="1653322052761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VtorKolokvium" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca1_1.coverage" NAME="Zadaca1-1 Coverage Results" MODIFIED="1650637496465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4_CSP" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$zadaca4_1.coverage" NAME="zadaca4-1 Coverage Results" MODIFIED="1648735622465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises_Informirano" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca4__1_.coverage" NAME="Zadaca4 (1) Coverage Results" MODIFIED="1653149934899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6_Drva" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca4.coverage" NAME="Zadaca4 Coverage Results" MODIFIED="1653261857275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7_Nevronski" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca1.coverage" NAME="Zadaca1 Coverage Results" MODIFIED="1652993061283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6_Drva" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca2__1_.coverage" NAME="Zadaca2 (1) Coverage Results" MODIFIED="1652993301068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6_Drva" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$vezbanka2.coverage" NAME="vezbanka2 Coverage Results" MODIFIED="1650886706844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Zadaca1__1_.coverage" NAME="Zadaca1 (1) Coverage Results" MODIFIED="1653233588672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7_Nevronski" />
+    <SUITE FILE_PATH="coverage/AuditoriskiVezbi$Pacman.coverage" NAME="Pacman Coverage Results" MODIFIED="1649687145639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domashna" />
+  </component>
+</project>
